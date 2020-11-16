@@ -1,0 +1,3 @@
+C:\Users\opilane\samples\Sample A
+C:\Users\opilane\samples\Sample B
+C:\Users\opilane\samples\Sample B\subDirectoryB

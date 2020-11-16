@@ -1,0 +1,7 @@
+C:\Users\opilane\samples\directories.txt
+C:\Users\opilane\samples\fileData.txt
+C:\Users\opilane\samples\Files.txt
+C:\Users\opilane\samples\pilt.jpg
+C:\Users\opilane\samples\TestA.txt
+C:\Users\opilane\samples\TestB.txt
+C:\Users\opilane\samples\Sample B\SubtestB.txt
